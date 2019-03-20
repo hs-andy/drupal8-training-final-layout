@@ -1,0 +1,10 @@
+eg-css:
+  version: 1.0
+  css:
+    base:
+      css/base/styles.css: {}
+
+quicksand:
+  css:
+    theme:
+      https://fonts.googleapis.com/css?family=Quicksand: { type: external }
