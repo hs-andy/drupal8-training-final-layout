@@ -17,6 +17,7 @@ regions:
   content: Content
   sidebar_first: Left Sidebar
   sidebar_second: Right Sidebar
+  front_page_blocks: Front Page Blocks
   footer: Footer
   page_top: Page top
   page_botom: Page bottom
